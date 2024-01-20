@@ -1,2 +1,5 @@
 nano class
-update from local in master
+
+update from remote in master
+
+>>>>>>> 14d153c1160db621a11091614198d2ac1f5a46f2
